@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Devine! </h1>
 
-<!--
-**XALATI031/XALATI031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science & Analytics | Projects & Skills:</h2>
 
-Here are some ideas to get you started:
+- <b>Projects</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Tools & Technologies</b>
+  - <b><i>Python, R, PySpark, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn. Power BI, Excel, QGIS, SPSS, HTML, JavaScript, Jupyter Notebook, GitHUb, RESTful APIs</b></i>
+- <b>Core Skills</b>
+  - [Data Cleaning & Preparation | Exploratory Data Analysis(EDA) |  Machine Learning & Predictive Modelling | Data Visualization & Storytelling | Geospatial Analysis | Statistical Analysis | Dashboard Development & Reporting]
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/devine-maluleke-7a97a12b7)
