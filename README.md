@@ -12,4 +12,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/devine-maluleke-7a97a12b7)
+<a href="https://linkedin.com/in/devine-maluleke-7a97a12b7" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+</a>
