@@ -15,3 +15,10 @@
 <a href="https://linkedin.com/in/devine-maluleke-7a97a12b7" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
 </a>
+<a href="https://www.instagram.com/devine_maluleke" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" alt="Instagram"/>
+</a>
+<a href="https://github.com/XALATI031" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30" alt="GitHub"/>
+</a>
+
